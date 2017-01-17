@@ -10,7 +10,7 @@ class PruebaController extends Controller {
      */
     public function index()
     {
-        return "probando rutas con controladores desde la nubesota";
+        return "probando rutas con controladores desde la nubesotaa";
     }
 
 }
